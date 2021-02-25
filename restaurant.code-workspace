@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "client",
+			"path": "restaurant-client"
+		},
+		{
+			"name": "server",
+			"path": "restaurant-server"
+		}
+	],
+	"settings": {}
+}
